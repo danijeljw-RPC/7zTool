@@ -1,6 +1,8 @@
 using _7zTool.Compression;
 using _7zTool.Extraction;
 using _7zTool.Information;
+using System;
+using System.Threading.Tasks;
 
 namespace _7zTool.UI
 {
