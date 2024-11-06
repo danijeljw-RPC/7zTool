@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>_7zTool</RootNamespace>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="7z.Libs" Version="24.8.0" />
+    <PackageReference Include="SevenZipSharp-zg" Version="1.0.0" />
+    <PackageReference Include="SharpCompress" Version="0.38.0" />
+  </ItemGroup>
+
+</Project>
